@@ -1,0 +1,15 @@
+{
+    "Generalised Anxiety Disorder":["Excessive worry","intense anxiety or panic"],
+    "Panic disorder":["Panic Attacks","sudden attacks of fear"],
+    "Social Anxiety Disorder":["Excessive worry in social situations","Socially awkward"],
+    "Separation anxiety disorder":["excessive fear or anxiety about separation","separation about loss","sensitivity of separation","loss of deep bond"],
+    "Depressions":["sad","irritable","empty","loss of pleasure","loss of interest","poor concentration","feelings of guilt","low self worth","hopelessness","suicide","thoughts about dying"],
+    "Post-Praumatic Stress disorder (PTSD)":["re-experiencing the traumatic event","intrusive memories, flashbacks, or nightmares","avoidance of thoughts and memories of the event","avoidance of activities, situations, or people reminiscent of the event","persistent perceptions of heightened current threat"],
+    "Bipolar Disorder":["Depressed mood","Irritability","increased activity or energy","increased talkativity","racing thoughts","increased self esteem","decreased sleep","distractibility","reckless behaviour"],
+    "Schizophrenia":["Significant behaviour changes","persistent delusions","hallicunations","disorganised thinking","extreme agitation"," persistent difficulties with basic functioning"],
+    "Eating disorder":["abnormal eating and preoccupation with food","abnormal weight and shape concerns","people with bulimia nervosa"],
+    "disruptive behaviour and dissocial disorders":["persistent behaviour problems","defiant or disobedient","behaviours that violate the basic rights of others or major age-appropriate societal norms, rules, or law"],
+    "Impulse control and addiction disorders":["Unable to resist urges,impulses","perform harmful acts","stealing","gambling","Alcoholism","Drugs"],
+    "Obessive-Compulsive disorder (OCD)":["constant thoughts or fears to perform certain rituals","obessions","disturbing thoughts","disturbing rituals"]
+}
+
